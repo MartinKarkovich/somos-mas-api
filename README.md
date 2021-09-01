@@ -8,7 +8,7 @@ Somos más
 
 ### Clone the repository
 
-> git clone git@bitbucket.org:alkemy-dev/t59-project.git
+> git clone git@github.com:MartinKarkovich/somos-mas-api.git
 
 ## Check your Ruby version
 
